@@ -25,14 +25,18 @@ O que eu faço:gosto de ir pro interior, ficar com a família, ouvir música
   
   (Competência Técnicas)
 
-  - Sei fazer acrobacia*
+  - Sei fazer bolo
   - Sei ligar e desligar um computador
   - Sei criar um site
- 
     ## SOFT SKILLS
     (Habilidades comportamentais)
 
-    - Paciente
-    - Sei trabalhar em grupo
-    - Evito julgar o coleguinha
+    - compreensiva
+    - comunicação assertiva
+    - trabalho em equipe
+   
+     ## interesses
+    - Gosto de assistir jogos do meu time
+    - Gosto de ir para vaquejada
+    - 
       
