@@ -38,5 +38,5 @@ O que eu faço:gosto de ir pro interior, ficar com a família, ouvir música
      ## interesses
     - Gosto de assistir jogos do meu time
     - Gosto de ir para vaquejada
-    - 
+      
       
